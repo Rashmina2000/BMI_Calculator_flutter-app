@@ -23,11 +23,11 @@ BMI Calculator is a simple --.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Rashmina2000/
+   git clone https://github.com/Rashmina2000/BMI_Calculator_flutter-app.git
    ```
 2. Navigate into the directory:
    ```sh
-   cd 
+   cd BMI_Calculator_flutter-app
    ```
 3. Get the dependencies:
    ```sh
@@ -41,5 +41,5 @@ BMI Calculator is a simple --.
 
 ## Contact
 
-Project Link: [https://github.com/Rashmina2000/](https://github.com/Rashmina2000/)
+Project Link: [https://github.com/Rashmina2000/BMI_Calculator_flutter-app.git](https://github.com/Rashmina2000/BMI_Calculator_flutter-app.git)
 <br><br>
