@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/77afff9b-c6a5-4578-8fa6-0c47e13a930a" width="250"><br><br>
 
 
-BMI Calculator is a simple --.
+BMI Calculator is a smooth and intuitive mobile application built using Flutter. This app allows users to calculate their Body Mass Index (BMI) and provides a beautiful and responsive user interface to enhance the user experience.
 <br><br>
 
 ## Built With
@@ -43,3 +43,8 @@ BMI Calculator is a simple --.
 
 Project Link: [https://github.com/Rashmina2000/BMI_Calculator_flutter-app.git](https://github.com/Rashmina2000/BMI_Calculator_flutter-app.git)
 <br><br>
+
+## Acknowledgments
+
+Made with [font_awesome_flutter 10.7.0](https://pub.dev/packages/font_awesome_flutter)
+- The free Font Awesome Icon pack available as set of Flutter Icons - based on font awesome version 6.5.1.
